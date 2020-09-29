@@ -7,7 +7,9 @@
   ### and then go to the server folder and run
   Npm install  and Npm Start
   
-  ### After that you need to start you postgresql and add the scripts from scripts.sql file
+  #### After that you need to start you postgresql and add the scripts from scripts.sql file
+  
+  
 
 
 ![helgecorpbank](https://user-images.githubusercontent.com/31938621/94617303-b96d9200-027f-11eb-8adb-3c661d680b6c.jpg)
